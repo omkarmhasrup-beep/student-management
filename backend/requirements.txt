@@ -17,12 +17,12 @@ ecdsa==0.19.2
 email-validator==2.3.0
 fastapi==0.141.1
 google-ai-generativelanguage==0.6.15
-google-api-core==2.33.0
-google-api-python-client==2.200.0
+google-api-core
+google-api-python-client
 google-auth==2.58.0
 google-auth-httplib2==0.4.2
 google-genai
-googleapis-common-protos==1.75.0
+googleapis-common-protos
 greenlet==3.5.6
 grpcio
 grpcio-status
@@ -40,7 +40,7 @@ packaging==26.3
 passlib==1.7.4
 pluggy==1.6.0
 proto-plus==1.28.2
-protobuf==5.29.6
+protobuf
 psycopg2-binary==2.9.13
 pyasn1==0.6.4
 pyasn1_modules==0.4.2
